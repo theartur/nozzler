@@ -21,4 +21,11 @@ Flow
  - confirm payment in page
  - confirm payment in box
  
+
+               MASTER (node)
+                 / \
+                /   \
+ (target) casper     glazer (client)
  
+ 
+ é bem provável que cada nozzle vai precisar de sua própria folha com os mesmos métodos
